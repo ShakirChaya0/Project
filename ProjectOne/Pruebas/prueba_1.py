@@ -6,4 +6,3 @@ def p1 ( a ):
     print( 'Fin' )
     
 p1(6)
-
